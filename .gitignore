@@ -13,3 +13,6 @@ build/
 doc/*.txt
 
 doc/**/*.pdf
+
+# blog
+*.lock
